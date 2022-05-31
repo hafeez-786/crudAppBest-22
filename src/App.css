@@ -1,0 +1,28 @@
+.user-list-card {
+    display: inline-block;
+    margin: 0px 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #417045de;
+    border-radius: 4px;
+    /* box-shadow: 2px 0px 3px 2px #000000b0; */
+    color: #fff;
+}
+
+.form-block {
+    width: 300px;
+    max-width: 100%;
+    height: auto;
+    padding: 15px;
+    margin: auto;
+    background-color: azure;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.main-list {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
